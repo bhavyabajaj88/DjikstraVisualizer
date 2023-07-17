@@ -1,0 +1,13 @@
+body{
+  margin-top: 5rem;
+}
+.grid {
+  margin: 100px 0 0;
+}
+.startButton{
+  display: inline-block;
+  background-color: #0B666A;
+  padding: 20px;
+  width: 200px;
+  color: #ffffff;
+}
